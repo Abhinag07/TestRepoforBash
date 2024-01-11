@@ -1,0 +1,7 @@
+D:\New folder\DelegatAndTuple\DelegatAndTuple\bin\Debug\DelegatAndTuple.exe.config
+D:\New folder\DelegatAndTuple\DelegatAndTuple\bin\Debug\DelegatAndTuple.exe
+D:\New folder\DelegatAndTuple\DelegatAndTuple\bin\Debug\DelegatAndTuple.pdb
+D:\New folder\DelegatAndTuple\DelegatAndTuple\obj\Debug\DelegatAndTuple.csproj.AssemblyReference.cache
+D:\New folder\DelegatAndTuple\DelegatAndTuple\obj\Debug\DelegatAndTuple.csproj.CoreCompileInputs.cache
+D:\New folder\DelegatAndTuple\DelegatAndTuple\obj\Debug\DelegatAndTuple.exe
+D:\New folder\DelegatAndTuple\DelegatAndTuple\obj\Debug\DelegatAndTuple.pdb
