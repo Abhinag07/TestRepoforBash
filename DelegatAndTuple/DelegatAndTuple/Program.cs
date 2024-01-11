@@ -9,7 +9,10 @@ namespace DelegatAndTuple
 	public delegate bool promotioneligible(Employee employee);
 	public class Program
 	{
-		
+		public void rint()
+		{
+			Console.WriteLine();
+		}
 		static void Main(string[] args)
 		{
 
